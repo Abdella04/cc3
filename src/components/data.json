@@ -1,0 +1,424 @@
+{
+    "routes": [
+        {
+            "from": "casablanca",
+            "to": "dakhla",
+            "transportation": {
+                "car": "15 hours",
+                "bus": "16 hours",
+                "plane": "2 hours",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Casablanca",
+            "to": "Tangier",
+            "transportation": {
+                "car": "5 hours",
+                "bus": "6 hours",
+                "plane": "1 hour",
+                "train": "4 hours"
+            }
+        },
+        {
+            "from": "Casablanca",
+            "to": "Fes",
+            "transportation": {
+                "car": "3 hours",
+                "bus": "4 hours",
+                "plane": "Not available",
+                "train": "3 hours"
+            }
+        },
+        {
+            "from": "Casablanca",
+            "to": "Marrakech",
+            "transportation": {
+                "car": "3 hours",
+                "bus": "4 hours",
+                "plane": "Not available",
+                "train": "2.5 hours"
+            }
+        },
+        {
+            "from": "Casablanca",
+            "to": "Agadir",
+            "transportation": {
+                "car": "5 hours",
+                "bus": "6 hours",
+                "plane": "1 hour",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Casablanca",
+            "to": "Essaouira",
+            "transportation": {
+                "car": "4 hours",
+                "bus": "4.5 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Dakhla",
+            "to": "Casablanca",
+            "transportation": {
+                "car": "15 hours",
+                "bus": "16 hours",
+                "plane": "2 hours",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Dakhla",
+            "to": "Tangier",
+            "transportation": {
+                "car": "17 hours",
+                "bus": "18 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Dakhla",
+            "to": "Fes",
+            "transportation": {
+                "car": "16 hours",
+                "bus": "17 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Dakhla",
+            "to": "Marrakech",
+            "transportation": {
+                "car": "14 hours",
+                "bus": "15 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Dakhla",
+            "to": "Agadir",
+            "transportation": {
+                "car": "12 hours",
+                "bus": "13 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Dakhla",
+            "to": "Essaouira",
+            "transportation": {
+                "car": "14 hours",
+                "bus": "15 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Tangier",
+            "to": "Casablanca",
+            "transportation": {
+                "car": "5 hours",
+                "bus": "6 hours",
+                "plane": "1 hour",
+                "train": "4 hours"
+            }
+        },
+        {
+            "from": "Tangier",
+            "to": "Dakhla",
+            "transportation": {
+                "car": "17 hours",
+                "bus": "18 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Tangier",
+            "to": "Fes",
+            "transportation": {
+                "car": "4 hours",
+                "bus": "5 hours",
+                "plane": "Not available",
+                "train": "4 hours"
+            }
+        },
+        {
+            "from": "Tangier",
+            "to": "Marrakech",
+            "transportation": {
+                "car": "6 hours",
+                "bus": "7 hours",
+                "plane": "Not available",
+                "train": "5 hours"
+            }
+        },
+        {
+            "from": "Tangier",
+            "to": "Agadir",
+            "transportation": {
+                "car": "8 hours",
+                "bus": "9 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Tangier",
+            "to": "Essaouira",
+            "transportation": {
+                "car": "8 hours",
+                "bus": "9 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Fes",
+            "to": "Casablanca",
+            "transportation": {
+                "car": "3 hours",
+                "bus": "4 hours",
+                "plane": "Not available",
+                "train": "3 hours"
+            }
+        },
+        {
+            "from": "Fes",
+            "to": "Dakhla",
+            "transportation": {
+                "car": "16 hours",
+                "bus": "17 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Fes",
+            "to": "Tangier",
+            "transportation": {
+                "car": "4 hours",
+                "bus": "5 hours",
+                "plane": "Not available",
+                "train": "4 hours"
+            }
+        },
+        {
+            "from": "Fes",
+            "to": "Marrakech",
+            "transportation": {
+                "car": "5 hours",
+                "bus": "6 hours",
+                "plane": "Not available",
+                "train": "6 hours"
+            }
+        },
+        {
+            "from": "Fes",
+            "to": "Agadir",
+            "transportation": {
+                "car": "7 hours",
+                "bus": "8 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Fes",
+            "to": "Essaouira",
+            "transportation": {
+                "car": "7 hours",
+                "bus": "8 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Agadir",
+            "to": "Casablanca",
+            "transportation": {
+                "car": "5 hours",
+                "bus": "6 hours",
+                "plane": "1 hour",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Agadir",
+            "to": "Dakhla",
+            "transportation": {
+                "car": "12 hours",
+                "bus": "13 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Agadir",
+            "to": "Tangier",
+            "transportation": {
+                "car": "8 hours",
+                "bus": "9 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Agadir",
+            "to": "Fes",
+            "transportation": {
+                "car": "7 hours",
+                "bus": "8 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Agadir",
+            "to": "Marrakech",
+            "transportation": {
+                "car": "3.5 hours",
+                "bus": "4 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Agadir",
+            "to": "Essaouira",
+            "transportation": {
+                "car": "3 hours",
+                "bus": "3.5 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Essaouira",
+            "to": "Casablanca",
+            "transportation": {
+                "car": "4 hours",
+                "bus": "4.5 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Essaouira",
+            "to": "Dakhla",
+            "transportation": {
+                "car": "14 hours",
+                "bus": "15 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Essaouira",
+            "to": "Tangier",
+            "transportation": {
+                "car": "8 hours",
+                "bus": "9 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Essaouira",
+            "to": "Fes",
+            "transportation": {
+                "car": "7 hours",
+                "bus": "8 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "Essaouira",
+            "to": "Marrakech",
+            "transportation": {
+                "car": "2.5 hours",
+                "bus": "3 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        },
+        {
+            "from": "marrakech",
+            "to": "casablanca",
+            "transportation": {
+              "car": "3 hours",
+              "bus": "4 hours",
+              "plane": "Not available",
+              "train": "2.5 hours"
+            }
+          },
+          {
+            "from": "marrakech",
+            "to": "dakhla",
+            "transportation": {
+              "car": "14 hours",
+              "bus": "15 hours",
+              "plane": "Not available",
+              "train": "Not available"
+            }
+          },
+          {
+            "from": "marrakech",
+            "to": "tangier",
+            "transportation": {
+              "car": "6 hours",
+              "bus": "7 hours",
+              "plane": "Not available",
+              "train": "5 hours"
+            }
+          },
+          {
+            "from": "marrakech",
+            "to": "fes",
+            "transportation": {
+              "car": "5 hours",
+              "bus": "6 hours",
+              "plane": "Not available",
+              "train": "6 hours"
+            }
+          },
+          {
+            "from": "marrakech",
+            "to": "agadir",
+            "transportation": {
+              "car": "3.5 hours",
+              "bus": "4 hours",
+              "plane": "Not available",
+              "train": "Not available"
+            }
+          },
+          {
+            "from": "marrakech",
+            "to": "essaouira",
+            "transportation": {
+              "car": "2.5 hours",
+              "bus": "3 hours",
+              "plane": "Not available",
+              "train": "Not available"
+            }
+          },
+        {
+            "from": "Essaouira",
+            "to": "Agadir",
+            "transportation": {
+                "car": "3 hours",
+                "bus": "3.5 hours",
+                "plane": "Not available",
+                "train": "Not available"
+            }
+        }
+    ]
+}

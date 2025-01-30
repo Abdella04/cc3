@@ -1,0 +1,106 @@
+/* ConfirmationPage.css */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f3f4f6;
+  color: #1a1a1a;
+  margin: 0;
+  padding: 0;
+}
+
+.confirmation-page {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px;
+  border: 2px solid #333;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+  font-family: 'Playfair Display', serif;
+}
+
+.confirmation-page h1 {
+  text-align: center;
+  color: #1a1a1a;
+  margin-bottom: 30px;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.trip-details {
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background-color: #f9fafb;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.trip-details p {
+  margin: 10px 0;
+  font-size: 1rem;
+  color: #333;
+  font-weight: 500;
+}
+
+.buy-ticket-button {
+  display: block;
+  margin: 30px auto;
+  padding: 15px 25px;
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #333;
+  border-radius: 50px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.buy-ticket-button:hover {
+  background-color: #1a1a1a;
+  color: #f9fafb;
+  border-color: #555;
+}
+
+.secondary-button {
+  display: inline-block;
+  margin: 10px 5px;
+  padding: 12px 20px;
+  background-color: #f9fafb;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.secondary-button:hover {
+  background-color: #f3f4f6;
+  color: #1a1a1a;
+  border-color: #999;
+}
+
+.confirmation-page h2 {
+  text-align: center;
+  margin-top: 30px;
+  color: #333;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+/* Small details */
+.trip-details p span {
+  color: #555;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.confirmation-page-footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9rem;
+  color: #666;
+}

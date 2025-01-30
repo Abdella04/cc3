@@ -1,0 +1,41 @@
+body {
+  color: white; /* Set the text color to white */
+  background-color: #333; /* Optional: Set a dark background color */
+  font-family: Arial, sans-serif; /* Optional: Set a default font */
+}
+  
+  .App {
+    text-align: center;
+    padding: 20px;
+  }
+
+/* Ensure the html and body take up the full height */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section-header {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.section-content {
+  padding: 2rem;
+  margin: 1rem 0;
+  background-color: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
